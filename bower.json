@@ -1,0 +1,23 @@
+{
+  "name": "css-refresh",
+  "version": "1.0.1",
+  "description": "CSSrefresh is a small, unobstructive javascript file that monitors the CSS-files included in your webpage. As soon as you save a CSS-file, the changes are directly implemented, without having to refresh your browser.",
+  "main": "cssrefresh.js",
+  "keywords": [
+    "css",
+    "livereload",
+    "ui"
+  ],
+  "authors": [
+    "Fred Heusschen"
+  ],
+  "license": "MIT",
+  "homepage": "http://cssrefresh.frebsite.nl/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
